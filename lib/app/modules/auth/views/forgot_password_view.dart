@@ -70,7 +70,7 @@ class ForgotPasswordView extends GetView<AuthController> {
                   child: ClipRRect(
                     borderRadius: BorderRadius.all(Radius.circular(10)),
                     child: Image.asset(
-                      'assets/icon/icon.png',
+                      'assets/icon/icon.jpeg',
                       fit: BoxFit.cover,
                       width: 100,
                       height: 100,
